@@ -29,5 +29,3 @@
 - /hardware : รูปต่อวงจร + รายการอุปกรณ์
 - /software : โค้ด Arduino
 - /docs : สไลด์นำเสนอและรูปทดลอง
-
-Link ส่ง MEDiHack: https://github.com/si
