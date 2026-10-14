@@ -30,4 +30,4 @@
 - /software : โค้ด Arduino
 - /docs : สไลด์นำเสนอและรูปทดลอง
 
-Link ส่ง MEDiHack: https://github.com/siraprapha3522-lgtm/SafeCath-U-Prototype
+Link ส่ง MEDiHack: https://github.com/si
